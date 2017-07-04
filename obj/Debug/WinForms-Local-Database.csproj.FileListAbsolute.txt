@@ -1,0 +1,13 @@
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\bin\Debug\Employee.mdf
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\bin\Debug\Employee_log.ldf
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\bin\Debug\WinForms-Local-Database.exe.config
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\bin\Debug\WinForms-Local-Database.exe
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\bin\Debug\WinForms-Local-Database.pdb
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms-Local-Database.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms_Local_Database.Details.resources
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms_Local_Database.Form1.resources
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms_Local_Database.Properties.Resources.resources
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms-Local-Database.csproj.GenerateResource.Cache
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms-Local-Database.exe
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms-Local-Database.pdb
+C:\Users\Przemek\Desktop\WinForms-Local-Database\WinForms-Local-Database\obj\Debug\WinForms_Local_Database.DataGridView.resources
